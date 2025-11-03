@@ -77,6 +77,6 @@ In cybersecurity, Agentic AI enables:
 - [Study paper-1](https://f1000research.com/articles/14-843/pdf)
 - [Study paper-2](https://f1000research.com/articles/14-843/pdf)
 
-4. See the [Architecture Diagram](docs/architecture.md) for details.
+4. See the [Architecture Diagram](/architecture.md) for details.
 
 5. [Demo link](https://www.youtube.com/watch?v=HAF2NYPqK7E)
