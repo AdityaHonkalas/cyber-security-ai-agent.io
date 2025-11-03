@@ -69,7 +69,30 @@ In cybersecurity, Agentic AI enables:
 
 ---
 
-### References
+## Proposed solution design flow  
+
+```markdown
++------------------------+
+|   User Reports Issue   |
++-----------+------------+
+            |
+            v
++-----------------------------+
+|  AI Agent Collects Details  |
++-----------+-----------------+
+            |
+            v
++-------------------------+
+|  Analyze Severity Level |
++-----------+-------------+
+            |
+            v
++--------------------------+
+| Create Ticket in Jira    |
++--------------------------+
+```
+
+## References
 
 1. [IBM Watsonx Orchestrate Documentation](https://www.ibm.com/docs/en/watsonx/watson-orchestrate/base?topic=getting-started-watsonx-orchestrate)
 
@@ -77,6 +100,4 @@ In cybersecurity, Agentic AI enables:
 - [Study paper-1](https://f1000research.com/articles/14-843/pdf)
 - [Study paper-2](https://f1000research.com/articles/14-843/pdf)
 
-4. See the [Architecture Diagram](architecture.md) for details.
-
-5. [Demo link](https://www.youtube.com/watch?v=HAF2NYPqK7E)
+4. [Demo link](https://www.youtube.com/watch?v=HAF2NYPqK7E)
